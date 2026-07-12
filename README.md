@@ -44,4 +44,4 @@ I build practical system and networking utilities for Windows. My work is center
 
 ## Contact
 
-For questions, bug reports, or technical discussions, use the [Telegram Proxy issue tracker](https://github.com/itzalexdev/telegram-proxy/issues).
+For questions, bug reports, or technical discussions, use the [issue tracker](https://github.com/itzalexdev/itzalexdev/issues).
