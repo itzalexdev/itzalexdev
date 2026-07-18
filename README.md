@@ -2,10 +2,9 @@
 
 # itzalexdev
 
-Systems and backend engineer building reliable, performance-sensitive software in **C, Rust, Go, and Python**.
+Systems and backend engineer building reliable, performance-sensitive software in **C, Go, and Python**.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -16,7 +15,7 @@ Systems and backend engineer building reliable, performance-sensitive software i
 
 I build practical systems, networking, infrastructure, and backend software with an emphasis on predictable behavior, measurable performance, and maintainable code.
 
-- systems and network programming in C and Rust;
+- systems and network programming in C;
 - concurrent services, CLIs, and infrastructure tooling in Go;
 - automation, integrations, data processing, and testing in Python;
 - Linux and Windows internals, networking, debugging, and performance work;
