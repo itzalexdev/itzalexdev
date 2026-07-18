@@ -45,4 +45,8 @@ I build practical systems, networking, infrastructure, and backend software with
 
 ## Availability
 
-Open to paid open-source bounties and remote contract work involving systems, networking, backend, developer tooling, or infrastructure. For project-specific questions, use the relevant repository issue tracker.
+Open to paid open-source bounties and remote contract work involving systems, networking, backend, developer tooling, or infrastructure.
+
+Preferred contact: [itzalexdev@gmail.com](mailto:itzalexdev@gmail.com).
+
+For project-specific questions, use the relevant repository issue tracker.
