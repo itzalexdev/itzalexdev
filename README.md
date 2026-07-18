@@ -2,23 +2,25 @@
 
 # itzalexdev
 
-Native Windows networking tools focused on reliability, performance, and simple deployment.
+Systems and backend engineer building reliable, performance-sensitive software in **C, Rust, Go, and Python**.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-## About
+## What I work on
 
-I build practical system and networking utilities for Windows. My work is centered around native code, efficient network transports, predictable behavior, and tools that remain easy to run and inspect.
+I build practical systems, networking, infrastructure, and backend software with an emphasis on predictable behavior, measurable performance, and maintainable code.
 
-- native Windows applications written in C;
-- network transport and proxy engineering;
-- small dependency surface and portable executables;
-- careful latency, fallback, and reconnect handling;
-- clear documentation and reproducible builds.
+- systems and network programming in C and Rust;
+- concurrent services, CLIs, and infrastructure tooling in Go;
+- automation, integrations, data processing, and testing in Python;
+- Linux and Windows internals, networking, debugging, and performance work;
+- API design, CI/CD, reproducible builds, and production-oriented testing.
 
 ## Featured project
 
@@ -26,7 +28,7 @@ I build practical system and networking utilities for Windows. My work is center
   <tr>
     <td>
       <h3><a href="https://github.com/itzalexdev/telegram-proxy">Telegram Proxy</a></h3>
-      <p>A local MTProto/WSS proxy for Telegram Desktop on Windows. It uses native Windows APIs, prepares direct Telegram connections in advance, and keeps a fallback route for unavailable network paths.</p>
+      <p>A native Windows MTProto/WSS proxy for Telegram Desktop. It prepares direct Telegram connections in advance, provides a fallback route for unavailable paths, and is distributed as a portable executable.</p>
       <a href="https://github.com/itzalexdev/telegram-proxy"><img src="https://img.shields.io/badge/Repository-telegram--proxy-181717?style=flat-square&amp;logo=github" alt="Repository"></a>
       <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square" alt="Windows 10 and 11">
       <img src="https://img.shields.io/badge/Transport-MTProto%20%2B%20WSS-26A5E4?style=flat-square" alt="MTProto and WSS">
@@ -35,13 +37,13 @@ I build practical system and networking utilities for Windows. My work is center
   </tr>
 </table>
 
-## Tools and technologies
+## Engineering priorities
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Win32](https://img.shields.io/badge/Win32%20API-0078D4?style=flat-square&logo=windows11&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- clear ownership boundaries and small dependency surfaces;
+- latency, throughput, failure recovery, and observability;
+- focused tests and reproducible development environments;
+- readable reviews, documentation, and incremental delivery.
 
-## Contact
+## Availability
 
-For questions, bug reports, or technical discussions, use the [issue tracker](https://github.com/itzalexdev/itzalexdev/issues).
+Open to paid open-source bounties and remote contract work involving systems, networking, backend, developer tooling, or infrastructure. For project-specific questions, use the relevant repository issue tracker.
