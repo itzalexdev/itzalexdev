@@ -4,10 +4,7 @@
 
 ### Full-Stack & Backend Engineer
 
-Building reliable web applications, APIs, and real-time services — from database design and backend architecture to responsive interfaces and production deployment.
-
-<a href="mailto:itzalexdev@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
-<a href="https://github.com/itzalexdev/telegram-proxy"><img src="https://img.shields.io/badge/Featured-Telegram%20Proxy-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Featured project"></a>
+I build full-stack web applications, backend services, and real-time features using Go, Python, React, Next.js, PostgreSQL, and WebSocket.
 
 <br>
 
@@ -35,24 +32,23 @@ Building reliable web applications, APIs, and real-time services — from databa
 
 </div>
 
----
+## What I build
 
-## ✨ What I build
+I work across the stack, from database design and APIs to frontend interfaces and deployment.
 
-I turn ideas into production-ready products across the stack, with a focus on performance, maintainability, and a polished user experience.
+- Full-stack applications with React, Next.js, and PostgreSQL
+- Backend services and APIs in Go and Python
+- Real-time features and integrations using WebSocket
+- Docker-based deployment and Linux environments
+- Systems and network tools in C and Go
 
-- **Full-stack web applications** — responsive React and Next.js interfaces backed by reliable APIs and PostgreSQL;
-- **backend and real-time systems** — services in Go and Python, WebSocket communication, integrations, and automation;
-- **infrastructure and delivery** — Dockerized services, Linux environments, CI/CD, testing, and reproducible builds;
-- **systems and networking** — performance-sensitive software in C and Go, concurrency, debugging, and network tooling.
-
-## 🚀 Featured project
+## Featured project
 
 <table>
   <tr>
     <td>
       <h3><a href="https://github.com/itzalexdev/telegram-proxy">Telegram Proxy</a></h3>
-      <p>A native Windows MTProto/WSS proxy for Telegram Desktop. It prepares direct Telegram connections in advance, provides a fallback route for unavailable paths, and is distributed as a portable executable.</p>
+      <p>A native Windows MTProto/WSS proxy for Telegram Desktop. It supports direct connections, fallback routing, and runs as a portable executable.</p>
       <a href="https://github.com/itzalexdev/telegram-proxy"><img src="https://img.shields.io/badge/Repository-telegram--proxy-181717?style=flat-square&amp;logo=github" alt="Repository"></a>
       <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square" alt="Windows 10 and 11">
       <img src="https://img.shields.io/badge/Transport-MTProto%20%2B%20WSS-26A5E4?style=flat-square" alt="MTProto and WSS">
@@ -61,14 +57,14 @@ I turn ideas into production-ready products across the stack, with a focus on pe
   </tr>
 </table>
 
-## ⚙️ Engineering approach
+## How I work
 
-- clean architecture and maintainable code;
-- reliable APIs, thoughtful data models, and predictable behavior;
-- performance, observability, testing, and graceful failure recovery;
-- responsive interfaces and a consistent user experience.
+- Clean and readable code
+- Simple APIs and database schemas
+- Tests, logging, and predictable error handling
+- Reproducible development and deployment
 
-## 🤝 Let's work together
+## Availability
 
 Open to paid open-source bounties and remote contract work involving full-stack development, backend systems, real-time applications, developer tooling, or infrastructure.
 
