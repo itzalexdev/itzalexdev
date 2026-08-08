@@ -2,35 +2,51 @@
 
 # itzalexdev
 
-Systems and backend engineer building reliable, performance-sensitive software in **C, Go, and Python**.
+### Full-Stack & Backend Engineer
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+Building reliable web applications, APIs, and real-time services — from database design and backend architecture to responsive interfaces and production deployment.
+
+<a href="mailto:itzalexdev@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+<a href="https://github.com/itzalexdev/telegram-proxy"><img src="https://img.shields.io/badge/Featured-Telegram%20Proxy-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Featured project"></a>
+
+<br>
+
+**Backend & Data**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+
+**Tools & Systems**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
-## What I work on
+---
 
-I build practical systems, networking, infrastructure, and backend software with an emphasis on predictable behavior, measurable performance, and maintainable code.
+## ✨ What I build
 
-- systems and network programming in C;
-- concurrent services, CLIs, and infrastructure tooling in Go;
-- automation, integrations, data processing, and testing in Python;
-- Linux and Windows internals, networking, debugging, and performance work;
-- API design, CI/CD, reproducible builds, and production-oriented testing.
+I turn ideas into production-ready products across the stack, with a focus on performance, maintainability, and a polished user experience.
 
-## Featured project
+- **Full-stack web applications** — responsive React and Next.js interfaces backed by reliable APIs and PostgreSQL;
+- **backend and real-time systems** — services in Go and Python, WebSocket communication, integrations, and automation;
+- **infrastructure and delivery** — Dockerized services, Linux environments, CI/CD, testing, and reproducible builds;
+- **systems and networking** — performance-sensitive software in C and Go, concurrency, debugging, and network tooling.
+
+## 🚀 Featured project
 
 <table>
   <tr>
@@ -45,16 +61,16 @@ I build practical systems, networking, infrastructure, and backend software with
   </tr>
 </table>
 
-## Engineering priorities
+## ⚙️ Engineering approach
 
-- clear ownership boundaries and small dependency surfaces;
-- latency, throughput, failure recovery, and observability;
-- focused tests and reproducible development environments;
-- readable reviews, documentation, and incremental delivery.
+- clean architecture and maintainable code;
+- reliable APIs, thoughtful data models, and predictable behavior;
+- performance, observability, testing, and graceful failure recovery;
+- responsive interfaces and a consistent user experience.
 
-## Availability
+## 🤝 Let's work together
 
-Open to paid open-source bounties and remote contract work involving systems, networking, backend, developer tooling, or infrastructure.
+Open to paid open-source bounties and remote contract work involving full-stack development, backend systems, real-time applications, developer tooling, or infrastructure.
 
 Preferred contact: [itzalexdev@gmail.com](mailto:itzalexdev@gmail.com).
 
